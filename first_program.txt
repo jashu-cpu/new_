@@ -1,0 +1,3 @@
+print ('jashu');
+
+select * from emp;
